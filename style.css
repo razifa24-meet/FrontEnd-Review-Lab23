@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+.hoho {
+  font-size: 35px;
+  background-image: url("movee.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
